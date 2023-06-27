@@ -142,3 +142,5 @@ cython_debug/
 report_xlsx/
 
 iris-code-workspace
+
+.idea/
