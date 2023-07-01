@@ -102,7 +102,7 @@
       "KC_WH_D",
       "KC_PSCR",
       "KC_TRNS",
-      "TO(3)",
+      "TO(4)",
       "KC_LPRN",
       "KC_RPRN",
       "KC_APP",
@@ -192,7 +192,7 @@
       "RCS(KC_TAB)",
       "RCTL(KC_TAB)",
       "KC_NO",
-      "KC_NO",
+      "KC_TRNS",
       "KC_TRNS",
       "KC_NO",
       "KC_TRNS",
@@ -221,7 +221,7 @@
       "KC_WH_D",
       "KC_NO",
       "KC_NO",
-      "TO(4)",
+      "KC_NO",
       "KC_PGDN",
       "TO(0)",
       "TO(0)",
@@ -250,7 +250,7 @@
       "KC_8",
       "KC_9",
       "KC_0",
-      "KC_NO",
+      "TO(3)",
       "KC_TAB",
       "KC_T",
       "KC_Q",
@@ -292,9 +292,9 @@
       "KC_LGUI",
       "KC_LALT",
       "KC_SPC",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS"
+      "TT(1)",
+      "LT(2,KC_BSPC)",
+      "KC_DEL"
     ]
   ],
   "author": "forn"
