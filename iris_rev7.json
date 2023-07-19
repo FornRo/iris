@@ -18,7 +18,7 @@
       "KC_8",
       "KC_9",
       "KC_0",
-      "KC_NO",
+      "KC_BSPC",
       "KC_TAB",
       "KC_Q",
       "KC_W",
@@ -102,7 +102,7 @@
       "KC_WH_D",
       "KC_PSCR",
       "KC_TRNS",
-      "TT(4)",
+      "TO(4)",
       "KC_NO",
       "KC_NO",
       "KC_APP",
@@ -292,9 +292,9 @@
       "KC_LGUI",
       "KC_LALT",
       "KC_SPC",
-      "TT(1)",
-      "LT(2,KC_BSPC)",
-      "KC_DEL"
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS"
     ]
   ],
   "author": "forn"
